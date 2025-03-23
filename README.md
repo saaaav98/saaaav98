@@ -26,8 +26,6 @@ I'm a passionate and detail-driven software engineer with a background in Englis
 
 
 ## 📫 Let's Connect
-
-📧 [savannah_holmes@hotmail.co.uk](mailto:savannah_holmes@hotmail.co.uk)  
 🔗 [LinkedIn](https://www.linkedin.com/in/savannah-holmes-360781171/)
 
 ---
