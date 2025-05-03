@@ -7,22 +7,22 @@ I'm a passionate and detail-driven software engineer with a background in Englis
 ## 🛠️ Current Projects
 
 - 🤖 **AI Predictive Model**  
-  Using PyTorch to analyze the relationship between global nutrition data and malnutrition rates.
+  Using PyTorch to analyse the relationship between global nutrition data and malnutrition rates.
 
 - 🎮 **Turn-Based Fantasy Game**  
   Built with C++ and Unreal Engine — a passion project blending storytelling with interactive design.
 
 - 🗂️ **Data Management Application**  
-  A Python-based app with integrated SQL database for organizing and analyzing datasets.
+  A Python-based app with integrated SQL database for organising and analysing datasets.
 
 ---
 
 ## 💡 Key Skills
 
 - **Languages & Tools**: Python, Java, C++, JavaScript, C#, HTML5, CSS, Tailwind CSS, SQL  
-- **AI & Machine Learning**: PyTorch, predictive modeling, Artificial Neural Networks  
+- **AI & Machine Learning**: PyTorch, predictive modeling, Artificial Neural Networks, Docker  
 - **Automation & Testing**: Selenium WebDriver, Postman (API Testing), Azure DevOps  
-- **Web Development**: Responsive front-end design and performance optimization  
+- **Web Development**: Responsive front-end design and performance optimisation  
 
 
 ## 📫 Let's Connect
